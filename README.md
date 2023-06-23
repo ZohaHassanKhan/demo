@@ -1,2 +1,2 @@
 # demo
-1st github demo repository
+1st github demo repository!
